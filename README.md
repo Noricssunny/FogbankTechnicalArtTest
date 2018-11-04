@@ -10,7 +10,7 @@ spineAnimation.unity
 
 GhostController.cs is the main script that controls playback of animations via SkeletonAnimation.
 
-**Controls:**
+**Keyboard Controls:**
 
 w = die
 
@@ -45,7 +45,7 @@ fbxAnimation.unity
 HuManController.cs is the main script that controls playback of animations via Animator.
 
 
-**Controls:**
+**Keyboard Controls:**
 
 w = die
 
