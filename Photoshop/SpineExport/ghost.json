@@ -1,0 +1,44 @@
+{ "skeleton": { "images": "" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "arm_L", "bone": "root", "attachment": "arm_L" },
+	{ "name": "body", "bone": "root", "attachment": "body" },
+	{ "name": "arm_R", "bone": "root", "attachment": "arm_R" },
+	{ "name": "head", "bone": "root", "attachment": "head" },
+	{ "name": "mouthO", "bone": "root", "attachment": "mouthO" },
+	{ "name": "mouthHappy", "bone": "root", "attachment": "mouthHappy" },
+	{ "name": "eyesOpen", "bone": "root", "attachment": "eyesOpen" },
+	{ "name": "eyesClosed", "bone": "root", "attachment": "eyesClosed" }
+],
+"skins": {
+	"default": {
+		"arm_L": {
+			"arm_L": { "x": 664, "y": -504, "width": 316, "height": 292 }
+		},
+		"body": {
+			"body": { "x": 406.5, "y": -677.5, "width": 815, "height": 675 }
+		},
+		"arm_R": {
+			"arm_R": { "x": 236.5, "y": -572, "width": 203, "height": 408 }
+		},
+		"head": {
+			"head": { "x": 429, "y": -229, "width": 546, "height": 460 }
+		},
+		"mouthO": {
+			"mouthO": { "x": 483.5, "y": -376, "width": 49, "height": 42 }
+		},
+		"mouthHappy": {
+			"mouthHappy": { "x": 485, "y": -361.5, "width": 214, "height": 87 }
+		},
+		"eyesOpen": {
+			"eyesOpen": { "x": 472, "y": -197, "width": 302, "height": 142 }
+		},
+		"eyesClosed": {
+			"eyesClosed": { "x": 474.5, "y": -245.5, "width": 299, "height": 41 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
