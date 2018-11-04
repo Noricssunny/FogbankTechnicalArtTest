@@ -3,7 +3,16 @@
 ## Unity Spine
 
 ## Unity FBX
+
+Scene name:
+
+fbxAnimation.unity
+
+
+Scripts:
+
 HuManController is the main script that controls playback of animations via Animator.
+
 
 Controls:
 
