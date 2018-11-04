@@ -5,12 +5,18 @@
 ## Unity FBX
 HuManController is the main script that controls playback of animations via Animator.
 
-Controls: 
+Controls:
+
 w = die
+
 a = move left
+
 s = move right
+
 d = idle
+
 space = jump
+
 
 Imported FBX Animations:
 Death
