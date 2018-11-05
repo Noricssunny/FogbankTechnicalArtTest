@@ -1,4 +1,6 @@
 # FogbankTechnicalArtTest
+Unity version: 2017.1.1f1
+Spine version: 3.6.53 Essential, launcher: 3.7.42
 
 ## Unity Spine
 
